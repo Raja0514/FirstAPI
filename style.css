@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+}
+.align{
+
+    margin-left: 500px;
+    text-align: center;
+    margin: 10px;
+}
+#button{
+
+    margin-top: 20px;
+}
